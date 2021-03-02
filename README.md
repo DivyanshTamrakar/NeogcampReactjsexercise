@@ -1,1 +1,15 @@
 # NeogcampReactjsexercise
+- ex0 - simple counter - https://twpbw.csb.app/
+- ex1 - character counter (Twitter) - https://ohpbf.csb.app/
+- ex2 - password match - https://s81qd.csb.app/
+- ex3 - alphanumeric password -    https://sdn0w.csb.app/
+- ex4 - disable submit - https://n81m1.csb.app/
+- ex5 - show password - https://88y77.csb.app/
+- ex6 - designer tool (small figma) - https://e5ei9.csb.app/
+- ex7 - add to cart - https://lbebb.csb.app/
+- ex8 - switch tabs - https://2pr6g.csb.app/
+- ex9 - toast - https://gx8d4.csb.app/
+- ex10 - todo/strikethrough -  https://v1oft.csb.app/
+- ex11 - dark mode - https://gzkkp.csb.app/
+- ex12 - like in a list - https://z27go.csb.app/
+- ex13 - out of stock (grey)- 
